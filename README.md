@@ -4,7 +4,7 @@
 
 ### Applied AI Engineer · AI Agent Developer · LLM Application Engineer
 
-**Building reliable AI applications for data, knowledge and business workflows.**  
+**Building reliable AI applications for data, knowledge and business workflows.**<br>
 **专注于为数据、知识与业务流程构建可靠的 AI 应用。**
 
 <p>
@@ -142,7 +142,7 @@ I am especially interested in teams building:
 - Agent evaluation, reliability and observability · Agent 评估、可靠性与可观测性
 - AI automation for real business processes · 面向真实业务流程的 AI 自动化
 
-I can communicate in English for technical discussions, written collaboration and interviews.  
+I can communicate in English for technical discussions, written collaboration and interviews.<br>
 我可以使用英文进行技术讨论、书面协作和面试沟通。
 
 ## Contact · 联系方式
